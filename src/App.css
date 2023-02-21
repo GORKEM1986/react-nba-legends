@@ -42,3 +42,9 @@
 .player_card {
   background-color: aliceblue;
 }
+.image_div:hover {
+  cursor: pointer;
+  -ms-transform: scale(0.9);
+  -webkit-transform: scale(0.9);
+  transform: scale(0.9);
+}
